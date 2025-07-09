@@ -2,4 +2,4 @@
 
 ## Whole Paper
 - [ ] Use iThenticate to check for plagiarism.
-- [ ] Use Grammarly to check for grammar and spelling errors.
+- [] Use Grammarly to check for grammar and spelling errors.
