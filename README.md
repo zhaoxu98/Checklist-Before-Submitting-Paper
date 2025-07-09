@@ -1,10 +1,10 @@
 # Checklist-Before-Submitting-Paper
 
-- Contributors: Zhao Xu
+- Contributors: [Zhao Xu](https://zhaohsu.top/)
 - Last Updated: 2025-07-09
 - Status: Draft
 
-Here are some checklists I will follow before submitting a paper to a conference or journal. Still under construction, and feel free to contribute to this project.
+Here are some checklists I will follow before submitting a paper to a conference or journal. Still under construction, and **feel free to contribute to this project**.
 
 ## Whole Paper
 
@@ -18,7 +18,9 @@ Here are some checklists I will follow before submitting a paper to a conference
 ## The Use of LLM
 
 *Usually, in most conferences, LLMs are only allowed to assist with writing (e.g., checking grammar, polishing the human-written text, etc.) and not to generate content.*
+
 *WE, the authors, are fully responsible for the content of the paper, and we should not rely on LLMs to generate any content.*
+
 *Therefore, it is recommended to double-check if all the content of the paper is properly obeying the rules of the conference.*
 
 - [ ] Check the conference guidelines for the use of LLMs.
