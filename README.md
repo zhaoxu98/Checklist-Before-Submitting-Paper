@@ -43,3 +43,15 @@ Here are some checklists I will follow before submitting a paper to a conference
 - [ ] Do not use "can't", "don't", etc.
 
 ...
+
+# Checklist after Open-Access Paper
+
+## Opensource
+
+- [ ] Code (with proper license)
+- [ ] Data (with proper license)
+- [ ] Model (with proper license)
+
+## Improve the Discovery
+
+- [ ] Add the paper to [huggingface.co/papers](https://huggingface.co/papers)
