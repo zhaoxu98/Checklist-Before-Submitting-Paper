@@ -42,6 +42,10 @@ Here are some checklists I will follow before submitting a paper to a conference
 - [ ] Ensure each abbreviation is defined at its first appearance in the text.
 - [ ] Do not use "can't", "don't", etc.
 
+## Reviews by LLMs
+
+- [ ] Test your paper on this website: [https://review.cspaper.org/](https://review.cspaper.org/)
+
 ...
 
 # Checklist after Open-Access Paper
@@ -55,3 +59,5 @@ Here are some checklists I will follow before submitting a paper to a conference
 ## Improve the Discovery
 
 - [ ] Add the paper to [huggingface.co/papers](https://huggingface.co/papers)
+- [ ] Write a blog/tweet/article to introduce the paper
+- [ ] 
