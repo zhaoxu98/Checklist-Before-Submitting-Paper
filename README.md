@@ -1,7 +1,7 @@
 # Checklist-Before-Submitting-Paper
 
 - Contributors: [Zhao Xu](https://zhaohsu.top/)
-- Last Updated: 2025-07-09
+- Last Updated: 2025-11-29
 - Status: Draft
 
 Here are some checklists I will follow before submitting a paper to a conference or journal. Still under construction, and **feel free to contribute to this project**.
