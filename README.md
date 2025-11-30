@@ -45,6 +45,7 @@ Here are some checklists I will follow before submitting a paper to a conference
 ## Reviews by LLMs
 
 - [ ] Test your paper on this website: [https://review.cspaper.org/](https://review.cspaper.org/)
+- [ ] Refine your paper according to the feedback of AI reviews here (remember to use anonymous email): [https://paperreview.ai/](https://paperreview.ai/)
 
 ...
 
