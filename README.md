@@ -61,4 +61,8 @@ Here are some checklists I will follow before submitting a paper to a conference
 
 - [ ] Add the paper to [huggingface.co/papers](https://huggingface.co/papers)
 - [ ] Write a blog/tweet/article to introduce the paper
+- [ ] Twitter
+- [ ] Bluesky
+- [ ] LinkedIn
+- [ ] alphaXiv
 - [ ] 
